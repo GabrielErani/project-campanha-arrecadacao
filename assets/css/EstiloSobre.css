@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+    text-align: center;
+}
+
+header {
+    color: #699c44;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+p {
+    font-size: 18px;
+    margin: 20px;
+}
+
+.team-list {
+    list-style-type: none;
+    margin: 20px;
+    padding: 0;
+}
+
+.team-list li {
+    font-size: 20px;
+}
