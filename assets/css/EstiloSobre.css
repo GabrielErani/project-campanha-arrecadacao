@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f7f7f7;
+    background-color: #FFB347;
     text-align: center;
 }
 
@@ -16,12 +16,21 @@ h1 {
 p {
     font-size: 18px;
     margin: 20px;
+    background-color: #699c44;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 150px; 
 }
 
 .team-list {
     list-style-type: none;
     margin: 20px;
     padding: 0;
+    background-color: #699c44; 
+    border: 1px solid #ccc; 
+    border-radius: 20px;
+    margin-left: 450px;
+    margin-right: 450px;
 }
 
 .team-list li {
